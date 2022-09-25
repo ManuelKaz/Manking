@@ -1,5 +1,5 @@
 {
-  "name": "KING-BOT-MD",
+  "name": "Manuel-Bot",
   "version": "2.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "king.js",
