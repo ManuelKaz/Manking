@@ -1,14 +1,14 @@
 {
-  "name": "KING BOT - MD V2",
-  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
-  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
-  "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
+  "name": "Mæñúël-Bot V2",
+  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥 BOT  ᴠ1.0.0",
+  "repository": "https://github.com/ManuelKaz/Manking",
+  "logo": "https://i.ibb.co/Jk8DQjt/IMG-20220819-144956.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": { 
             "BOT_NAME": {
-            "description": "බොට්ගෙ නම...",
+            "description": "Manuel Bot made...",
             "required": true,
-            "value":"[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] ᎷᎠ"
+            "value":"[🇲🇼𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] ᎷᎠ"
         },
             "SONG_DOWNLOAD": {
             "description": "",
